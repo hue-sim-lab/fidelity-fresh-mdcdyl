@@ -7,4 +7,4 @@ class Shelf:
         self.count += n
 
     def remove(self, n=1):
-        self.count -= n
+        self.count = max(0, self.count - n)
