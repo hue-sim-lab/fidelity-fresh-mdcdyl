@@ -1,4 +1,5 @@
 {
   "shelves": ["pantry", "garage", "attic"],
-  "lowStock": 3
+  "lowStock": 3,
+  "alerts": true
 }
